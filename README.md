@@ -1,1 +1,1 @@
-# GlasgowGigs2.0
+Django app!
